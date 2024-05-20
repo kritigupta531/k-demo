@@ -1,4 +1,4 @@
 # k-demo
-this is my first repository officially.
+This is my first repository officially.
 <br>
-author-Kriti gupta
+Author-Kriti gupta
